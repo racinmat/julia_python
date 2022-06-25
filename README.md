@@ -22,3 +22,9 @@ start jupyter notebook
 ```bash
 jupyter lab
 ```
+
+mutagenesis examples taken from:
+https://nbviewer.org/github/CTUAvastLab/JsonGrinder.jl/blob/gh-pages/v2.3.1/examples/mutagenesis_python.ipynb
+https://nbviewer.org/github/CTUAvastLab/JsonGrinder.jl/blob/gh-pages/v2.3.1/examples/mutagenesis.ipynb
+
+presentation: https://docs.google.com/presentation/d/17iJz3msb9cYPzNDW2RMl1ZY-U9kPS9j58vtXX__yt3U/edit?usp=sharing

@@ -7,7 +7,7 @@ Create the environment
 conda create -n julia_python python=3.9
 conda activate julia_python
 conda install tensorflow pytorch numpy
-pip install jupyterlab jupyter_nbextensions_configurator intel-openmp
+pip install jupyterlab jupyter_nbextensions_configurator intel-openmp matplotlib
 ```
 using python 3.9, because there is no conda package ready yet for the 3.10
 
